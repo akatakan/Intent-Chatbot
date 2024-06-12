@@ -38,7 +38,8 @@ Bu, Streamlit, Spacy ve Scikit-learn kullanarak oluşturulmuş basit bir sohbet 
 Bu, basit bir sohbet robotu uygulamasıdır ve daha fazla özellik eklemek isteyebilirsiniz, örneğin:
 
 * Çoklu intent'ları işlemek
-* Yanıt olGeneration'ı geliştirmek
+* Daha yüksek accuracy'ye sahip model geliştirmek.
+* Yanıt üretim kısmını geliştirmek
 * Daha gelişmiş NLP yetenekleri eklemek
 
 **Lisans**
